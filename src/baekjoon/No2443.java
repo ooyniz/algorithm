@@ -14,6 +14,7 @@ public class No2443 {
 				System.out.print("*");
 			System.out.println("");
 		}
+		sc.close();
 
 	}
 
